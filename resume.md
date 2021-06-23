@@ -7,17 +7,17 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1984 - 1988`
+__Yale University__
+B.S. Physics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1989 - 1995`
+__Massachusetts Institute of Technology/Woods Hole Oceanographic Institution Joint Program__
+Ph.D. Physical Oceanography 
 
 ## Awards
 
-`2012`
+`2021`
 Name of Award, Organization 
 
 ## Publications
