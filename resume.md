@@ -41,6 +41,22 @@ University of Colorado, Department of Atmospheric and Oceanic Sciences, Distingu
 `2012`
 H. Burr Steinbach Visiting Scholar, Woods Hole Oceanographic Institution
 
+`2011`
+Poste Rouge, Visiting Scientist, Observatoire Midi-Pyrenees, Université Paul Sabatier, Toulouse, France
+
+`2004`
+Poste Rouge, Visiting Scientist, Centre National de la Recherche Scientifique, LOCEAN, Paris, France
+
+`2000`
+Zeldovich Award for COSPAR Scientific Commission A, conferred by the Committee on Space Research (COSPAR) and the Russian Academy of Sciences for excellence and achievement by a young scientist
+
+`2000`
+NSF Career Award
+
+`1995`
+Carl-Gustav Rossby Award for best thesis of the year, Center for Meteorology and Physical Oceanography, MIT
+
+
 
 
 ## Publications
@@ -49,12 +65,12 @@ H. Burr Steinbach Visiting Scholar, Woods Hole Oceanographic Institution
 
 ### Journals
 
-See <a href="https://sgille.scrippsprofiles.ucsd.edu/publications/"> my institutional publications page</a>
+See <a href="https://sgille.scrippsprofiles.ucsd.edu/publications/"> my institutional publications page</a> or <a href="http://pordlabs.ucsd.edu/sgille/publications.html">my running list of submitted and published work</a>
 
 
 ## Occupation
 
-`Current`
+`2008-Current`
 __Professor__, Scripps Institution of Oceanography, University of California San Diego 
 
 - Teach and carry out research in physical oceanography
