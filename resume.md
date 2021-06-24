@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Professor and Department Vice Chair
 
 ## Education
 
@@ -18,7 +18,25 @@ Ph.D. Physical Oceanography
 ## Awards
 
 `2021`
-Name of Award, Organization 
+Sverdrup Gold Medal, American Meteorological Society
+Fellow of the American Meteorological Society
+Fellow of Revelle College, UC San Diego
+
+`2017`
+Editor’s Citation for Excellence in Refereeing, Journal of Geophysical Research – Oceans, American Geophysical Union
+
+`2015`
+Fellow of the American Geophysical Union
+
+`2014`
+Editor’s Award, Journal of Physical Oceanography, American Meteorological Society
+
+University of Colorado, Department of Atmospheric and Oceanic Sciences, Distinguished Lecture
+
+`2012`
+H. Burr Steinbach Visiting Scholar, Woods Hole Oceanographic Institution
+
+
 
 ## Publications
 
