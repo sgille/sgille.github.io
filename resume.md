@@ -19,7 +19,11 @@ Ph.D. Physical Oceanography
 
 `2021`
 Sverdrup Gold Medal, American Meteorological Society
+
+`2021`
 Fellow of the American Meteorological Society
+
+`2021`
 Fellow of Revelle College, UC San Diego
 
 `2017`
@@ -31,6 +35,7 @@ Fellow of the American Geophysical Union
 `2014`
 Editor’s Award, Journal of Physical Oceanography, American Meteorological Society
 
+`2014`
 University of Colorado, Department of Atmospheric and Oceanic Sciences, Distinguished Lecture
 
 `2012`
