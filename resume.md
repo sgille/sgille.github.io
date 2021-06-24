@@ -44,41 +44,31 @@ H. Burr Steinbach Visiting Scholar, Woods Hole Oceanographic Institution
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+See <a href="https://sgille.scrippsprofiles.ucsd.edu/publications/"> my institutional publications page</a>
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Professor__, Scripps Institution of Oceanography, University of California San Diego 
 
-- Task
-- Task
+- Teach and carry out research in physical oceanography
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2004-2008`
+__Associate Professor__, Scripps Institution of Oceanography and Department of Mechanical and Aerospace Engineering, University of California San Diego
 
-- Task
-- Task
+`2000-2004`
+__Assistant Professor__, Scripps Institution of Oceanography and Department of Mechanical and Aerospace Engineering, University of California San Diego
 
+
+`1998-2000`
+__Assistant Professor__, Department of Earth System Science, University of California Irvine
+
+`1997-1998`
+__Postdoctoral Researcher__, School of Environmental Sciences, University of East Anglia (NSF-NATO Postdoctoral Fellowship)
+
+`1995-1997`
+__Postdoctoral Researcher__, Scripps Institution of Oceanography, University of California San Diego 
 
 
 <!-- ### Footer
